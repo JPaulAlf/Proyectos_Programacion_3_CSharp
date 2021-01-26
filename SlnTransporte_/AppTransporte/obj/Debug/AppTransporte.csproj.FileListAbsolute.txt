@@ -1,0 +1,40 @@
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\II 2011\Leccion 1\Ejemplo\SlnTransporte1\AppTransporte\obj\Debug\AppTransporte.exe
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\II 2011\Leccion 1\Ejemplo\SlnTransporte1\AppTransporte\obj\Debug\AppTransporte.pdb
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.exe
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.pdb
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.exe
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.pdb
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\CapaObjetos.dll
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\CapaObjetos.pdb
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.frmTransporte.resources
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.Properties.Resources.resources
+C:\Users\Ana Cecilia\Documents\ATI\Progra III\III-2013\Lección 2\Lección 2 Estud\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.csproj.GenerateResource.Cache
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.exe
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.pdb
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.exe
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.pdb
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\CapaObjetos.dll
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\bin\Debug\CapaObjetos.pdb
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.csprojResolveAssemblyReference.cache
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.frmTransporte.resources
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.Properties.Resources.resources
+C:\Users\Ana Cecilia\Documents\ATI\P3\I-14\Lección 2\Lección 2 Prof\Ejemplos\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.csproj.GenerateResource.Cache
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.exe
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.pdb
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.exe.config
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.exe
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\bin\Debug\AppTransporte.pdb
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.csprojResolveAssemblyReference.cache
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.frmTransporte.resources
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.Properties.Resources.resources
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 1\Ejemplos\SlnTransporte\SlnTransporte-menu\AppTransporte\obj\Debug\AppTransporte.csproj.GenerateResource.Cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.csprojAssemblyReference.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.Properties.Resources.resources
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.csproj.GenerateResource.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.csproj.CoreCompileInputs.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.exe
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\obj\Debug\AppTransporte.pdb
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\bin\Debug\AppTransporte.exe.config
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\bin\Debug\AppTransporte.exe
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 2\Soluciones Ejercicios Practicas\SlnTransporte - Estudiante\AppTransporte\bin\Debug\AppTransporte.pdb
