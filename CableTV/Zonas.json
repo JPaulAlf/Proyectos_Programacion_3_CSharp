@@ -1,0 +1,74 @@
+﻿[
+  {
+    "Nombre": "Central",
+    "Proveedor": "TeleCable",
+    "PrecioTV": 4000,
+    "PrecioTelefono": 2000,
+    "PrecioInternet": 14000,
+    "PrecioDigital": 7000
+  },
+  {
+    "Nombre": "Huetar",
+    "Proveedor": "TeleCable",
+    "PrecioTV": 3000,
+    "PrecioTelefono": 1000,
+    "PrecioInternet": 13000,
+    "PrecioDigital": 6000
+  },
+  {
+    "Nombre": "Brunca",
+    "Proveedor": "TeleCable",
+    "PrecioTV": 2000,
+    "PrecioTelefono": 500,
+    "PrecioInternet": 12000,
+    "PrecioDigital": 5000
+  },
+  {
+    "Nombre": "GAM",
+    "Proveedor": "CableTica",
+    "PrecioTV": 5000,
+    "PrecioTelefono": 3000,
+    "PrecioInternet": 18000,
+    "PrecioDigital": 8000
+  },
+  {
+    "Nombre": "Zona sur",
+    "Proveedor": "CableTica",
+    "PrecioTV": 4000,
+    "PrecioTelefono": 2000,
+    "PrecioInternet": 16000,
+    "PrecioDigital": 7000
+  },
+  {
+    "Nombre": "Zona norte",
+    "Proveedor": "CableTica",
+    "PrecioTV": 3000,
+    "PrecioTelefono": 1000,
+    "PrecioInternet": 14000,
+    "PrecioDigital": 6000
+  },
+  {
+    "Nombre": "Valle central",
+    "Proveedor": "TigoStar",
+    "PrecioTV": 4000,
+    "PrecioTelefono": 2000,
+    "PrecioInternet": 19000,
+    "PrecioDigital": 9000
+  },
+  {
+    "Nombre": "Atlántico",
+    "Proveedor": "TigoStar",
+    "PrecioTV": 3500,
+    "PrecioTelefono": 1500,
+    "PrecioInternet": 18500,
+    "PrecioDigital": 8500
+  },
+  {
+    "Nombre": "Pacífico",
+    "Proveedor": "TigoStar",
+    "PrecioTV": 3000,
+    "PrecioTelefono": 1000,
+    "PrecioInternet": 18000,
+    "PrecioDigital": 8000
+  }
+]

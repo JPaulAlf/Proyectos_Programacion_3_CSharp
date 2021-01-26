@@ -1,0 +1,10 @@
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\bin\Debug\Quiz2.CableTV.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\bin\Debug\Quiz2.CableTV.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\bin\Debug\Quiz2.CableTV.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\CableTV_vFINAL.csprojAssemblyReference.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\Quiz2.CableTV.frmPrincipal.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\Quiz2.CableTV.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\CableTV_vFINAL.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\CableTV_vFINAL.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\Quiz2.CableTV.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 6\Q2JohnPaulAlfaro_JonathanMejias\CableTV\obj\Debug\Quiz2.CableTV.pdb
