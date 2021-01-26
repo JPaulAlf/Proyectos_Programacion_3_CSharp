@@ -1,0 +1,10 @@
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\bin\Debug\AppEjercicioBebidas.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\bin\Debug\AppEjercicioBebidas.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\bin\Debug\AppEjercicioBebidas.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\AppEjercicioBebidas.csprojAssemblyReference.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\UTN.Winform.Bebidas.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\UTN.Winform.Bebidas.UI.BebidasUI.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\AppEjercicioBebidas.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\AppEjercicioBebidas.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\AppEjercicioBebidas.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\Ejercicio Bebidas\AppEjercicioBebidas\obj\Debug\AppEjercicioBebidas.pdb

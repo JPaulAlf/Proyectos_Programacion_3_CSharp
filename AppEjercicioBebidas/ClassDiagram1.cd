@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="UTN.Winform.Bebidas.Class.Agua" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Agua.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Bebida" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAAAAEAiAEAAAAAAAABAAAAAAAAABAAAAADAA=</HashCode>
+      <FileName>Class\Bebida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Descremada" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Descremada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Factura" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Fresa" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Fresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Ingrediente" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAEAAAAAgABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Ingrediente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Leche" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Papaya">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Papaya.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Pera" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Pera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Pina" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Pina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Polvo" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAgAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Class\Polvo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Regular" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Regular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Class.Yogurt" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Yogurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Liquido" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAACAEAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Liquido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Bebidas.Factory.FactoryIngrediente" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\FactoryIngrediente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="UTN.Winform.Bebidas.Interface.IGramo" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Interface\IGramo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TipoIngrediente" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAABAAAAAEAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Enum\TipoIngrediente.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
