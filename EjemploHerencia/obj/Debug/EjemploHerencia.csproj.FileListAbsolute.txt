@@ -1,0 +1,41 @@
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.frmPrincipal.resources
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.Properties.Resources.resources
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+C:\Users\Alexander\Documents\Ejemplos\EjemploHerencia\obj\Debug\EjemploHerencia.Interfaces.frmInterfaces.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.exe.config
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.frmPrincipal.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.Interfaces.frmInterfaces.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.Properties.Resources.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.csproj.GenerateResource.Cache
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+C:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.exe.config
+C:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+C:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.exe.config
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.csprojResolveAssemblyReference.cache
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.frmPrincipal.resources
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.Properties.Resources.resources
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.csproj.GenerateResource.Cache
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 2\Profesor\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\bin\Debug\EjemploHerencia.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\bin\Debug\EjemploHerencia.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\bin\Debug\EjemploHerencia.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.frmPrincipal.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploHerencia\obj\Debug\EjemploHerencia.csprojAssemblyReference.cache
