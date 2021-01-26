@@ -10,10 +10,8 @@ namespace UTN.Winform.Bebidas.Class
     /// <summary>
     /// Clase Bebida, contiene todos los calculos relacionados y creacion del XML
     /// </summary>
-       public class Bebida
+    class Bebida
     {
-
-
         /// <summary>
         /// Lista de ingredientes de la bebida
         /// </summary>
