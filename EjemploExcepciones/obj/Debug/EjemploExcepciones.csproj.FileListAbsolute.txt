@@ -1,0 +1,36 @@
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.Properties.Resources.resources
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
+C:\Users\Alexander\Documents\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.frmPrincipal.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe.config
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.frmPrincipal.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.Properties.Resources.resources
+C:\Users\Alexander\SkyDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.GenerateResource.Cache
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe.config
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojResolveAssemblyReference.cache
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.frmPrincipal.resources
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.Properties.Resources.resources
+D:\Users\Alex\OneDrive\UTN\ISW-411 Programación III\1. Lecciones\Semana 3\Profesor\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.GenerateResource.Cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojAssemblyReference.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.frmPrincipal.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 2\PRACTICA\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
