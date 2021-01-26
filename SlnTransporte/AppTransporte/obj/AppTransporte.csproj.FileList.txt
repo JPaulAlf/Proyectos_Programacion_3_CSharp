@@ -1,0 +1,10 @@
+bin\Debug\AppTransporte.exe
+bin\Debug\AppTransporte.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AppTransporte.Properties.Resources.resources
+obj\Debug\AppTransporte.csproj.GenerateResource.Cache
+obj\Debug\AppTransporte.exe
+obj\Debug\AppTransporte.pdb
+obj\Debug\AppTransporte.frmTransporte.resources
+bin\Debug\CapaObjetos.dll
+bin\Debug\CapaObjetos.pdb
