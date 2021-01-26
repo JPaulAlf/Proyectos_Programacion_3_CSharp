@@ -1,0 +1,65 @@
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\bin\Debug\appSutel.exe.config
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\appSutel.csprojResolveAssemblyReference.cache
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.Cache
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\bin\Debug\appSutel.exe
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\bin\Debug\appSutel.pdb
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\appSutel.exe
+c:\users\morera\documents\visual studio 2013\Projects\appSutel\appSutel\obj\Debug\appSutel.pdb
+G:\VS\Projects\appSutel\appSutel\bin\Debug\appSutel.exe.config
+G:\VS\Projects\appSutel\appSutel\obj\Debug\appSutel.exe
+G:\VS\Projects\appSutel\appSutel\obj\Debug\appSutel.pdb
+G:\VS\Projects\appSutel\appSutel\bin\Debug\appSutel.exe
+G:\VS\Projects\appSutel\appSutel\bin\Debug\appSutel.pdb
+G:\VS\Projects\appSutel\appSutel\obj\Debug\appSutel.csprojResolveAssemblyReference.cache
+G:\VS\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+G:\VS\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+G:\VS\Projects\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.Cache
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\bin\Debug\appSutel.exe.config
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\appSutel.exe
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\appSutel.pdb
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\bin\Debug\appSutel.exe
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\bin\Debug\appSutel.pdb
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\appSutel.csprojResolveAssemblyReference.cache
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+C:\Users\morera\Documents\Visual Studio 2015\Projects\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.Cache
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.exe.config
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.exe
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.pdb
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.exe
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.pdb
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.csprojResolveAssemblyReference.cache
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+C:\Users\Morera\Documents\Visual Studio 2015\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.Cache
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.exe.config
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.exe
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\bin\Debug\appSutel.pdb
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.csprojAssemblyReference.cache
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.cache
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.exe
+C:\Users\Morera\Documents\Visual Studio 2019\Projects\UTN_VS\appSutel\appSutel\obj\Debug\appSutel.pdb
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\bin\Debug\appSutel.exe.config
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\bin\Debug\appSutel.exe
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\bin\Debug\appSutel.pdb
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\appSutel.csprojAssemblyReference.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\appSutel.csproj.CoreCompileInputs.cache
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\appSutel.exe
+C:\Users\karli\Documents\UTN\Programación III\IIQ 2020\Semana 4\Ejercicios Practica en clase\Ejercicio SUTEL\SOLUCION appSutel\appSutel\appSutel\obj\Debug\appSutel.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\appSutel.csprojAssemblyReference.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\UTN.WinForms.Sutel.UI.frmPrincipal.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\appSutel.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\appSutel.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\appSutel.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\obj\Debug\appSutel.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\bin\Debug\appSutel.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\bin\Debug\appSutel.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 4\PRACTICA\appSutel\appSutel\bin\Debug\appSutel.pdb
