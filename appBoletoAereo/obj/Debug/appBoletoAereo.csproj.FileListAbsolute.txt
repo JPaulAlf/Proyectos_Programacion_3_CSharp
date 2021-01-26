@@ -1,0 +1,91 @@
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.frmPrincipal.resources
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.Properties.Resources.resources
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\bin\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\bin\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.frmPrincipal.resources
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.Properties.Resources.resources
+C:\Users\UTN\Documents\Visual Studio 2008\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\bin\Debug\appBoletoAereo.exe.config
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\bin\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\bin\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.frmPrincipal.resources
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.Properties.Resources.resources
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.exe
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.pdb
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereoCompleto\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\UTN\Desktop\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+C:\Users\UTN\Documents\Visual Studio 2012\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+C:\Users\Morera\Documents\Visual Studio 2013\Projects\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+C:\Users\karli\Google Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+G:\My Drive\Programación III\Lecciones\Semana 03\Practica Boleto\appBoletoAereo\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\appBoletoAereo\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\appBoletoAereo\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe.config
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\appBoletoAereo.csprojResolveAssemblyReference.cache
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.Cache
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.exe
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\bin\Debug\UTN.WinForms.Boleto.pdb
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.exe
+C:\Users\karli\Documents\UTN\Programación III\IQ 2020\Semana 3\PracticaBoleto FActory\EstudianteBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\bin\Debug\Y cual frameUTN.WinForms.Boleto.exe.config
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\bin\Debug\Y cual frameUTN.WinForms.Boleto.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\bin\Debug\Y cual frameUTN.WinForms.Boleto.pdb
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\appBoletoAereo.csprojAssemblyReference.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.frmPrincipal.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\UTN.WinForms.Boleto.Properties.Resources.resources
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.GenerateResource.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\appBoletoAereo.csproj.CoreCompileInputs.cache
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\Y cual frameUTN.WinForms.Boleto.exe
+E:\CARPETAS_IMPORTANTES\Documents\UNIVERSIDAD\UTN DOC 5CT\Programacion 3\SEMANA 3\Practica\EjercicioBoleto\appBoletoAereo\obj\Debug\Y cual frameUTN.WinForms.Boleto.pdb
