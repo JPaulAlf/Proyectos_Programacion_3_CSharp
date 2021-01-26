@@ -1,0 +1,1 @@
+﻿enum TipoSnack { Candy, Chocolate,Chip,Drink}
