@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.AgenciaAduanal" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\AgenciaAduanal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Cliente" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Cliente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Electronico">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAACAAAAAAg=</HashCode>
+      <FileName>Class\Electronico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Juguete">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAACAAAAAAg=</HashCode>
+      <FileName>Class\Juguete.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Libro">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAQCAAAAAAA=</HashCode>
+      <FileName>Class\Libro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Paquete" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAACAAACABAAAACAAEAAAAAAAAAAAAQAAAAAAAE=</HashCode>
+      <FileName>Class\Paquete.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Producto">
+    <Position X="3.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAABAACAAAAAEgAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Class.Ropa">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Ropa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Factory.FactoryProducto">
+    <Position X="14" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\FactoryProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Gestores.Gestor">
+    <Position X="19.5" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACABABAAAAAEAAAAAAAAAAAAQAAAAAAAE=</HashCode>
+      <FileName>Gestores\Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.JSON.DatosJSON">
+    <Position X="9" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JSON\DatosJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.JSON.ListaJson">
+    <Position X="16.5" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAQAAAAIAAAAARABAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>JSON\ListaJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="appExamen_JohnPaul_Alfaro.Form1">
+    <Position X="17.25" Y="1" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>kAAQDAAAACAABBAAAEiAAJACAAAIAUACAAQAEgAAQAE=</HashCode>
+      <FileName>UI\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UTN.Winform.Examen1.LogiCargo.Util.JSONGenericObject&lt;T&gt;">
+    <Position X="11.5" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Util\JSONGenericObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IAgenciaAduanal">
+    <Position X="11" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IAgenciaAduanal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IBitcoin">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Interface\IBitcoin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.ICliente">
+    <Position X="12.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICliente.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.ICostoPeso">
+    <Position X="16.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interface\ICostoPeso.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.ICostoTamanno">
+    <Position X="9" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICostoTamanno.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IDescuento">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Interface\IDescuento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IImpuesto">
+    <Position X="14.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IImpuesto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IIncentivo">
+    <Position X="1.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IIncentivo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="UTN.Winform.Examen1.LogiCargo.Interface.IPaquete">
+    <Position X="18" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACABAAAAAAAEAAAAAAAAAAAAQAAAAAAAE=</HashCode>
+      <FileName>Interface\IPaquete.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TipoProducto">
+    <Position X="20.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAE=</HashCode>
+      <FileName>Enumeraciones\TipoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

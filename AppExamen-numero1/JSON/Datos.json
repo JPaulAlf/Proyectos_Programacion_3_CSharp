@@ -1,0 +1,51 @@
+﻿ {
+ "Cliente":"Cliente Estudiante",
+ "NombreAgenciaAduanal":"CargoTico",
+  "Lista": [
+    {
+
+      "TipoProducto": "Electronico",
+      "Descripcion": "Wacom",
+      "Precio": 500,
+      "Peso": 20,
+      "TamanoLargo": 5,
+      "TamanoAncho": 5,
+      "TamanoAlto": 5
+    },
+    {
+
+      "TipoProducto": "Ropa",
+      "Descripcion": "Michael Kors",
+      "Precio": 100,
+      "Peso": 0,
+      "TamanoLargo": 0,
+      "TamanoAncho": 0,
+      "TamanoAlto": 0
+    },
+
+    {
+
+      "TipoProducto": "Libro",
+      "Descripcion": "Actitud de Vencedor",
+      "Precio": 30,
+      "Peso": 1,
+      "TamanoLargo": 1,
+      "TamanoAncho": 2,
+      "TamanoAlto": 3
+    },
+
+    {
+
+      "TipoProducto": "Juguete",
+      "Descripcion": "Retro Game Console",
+      "Precio": 100,
+      "Peso": 2,
+      "TamanoLargo": 1,
+      "TamanoAncho": 2,
+      "TamanoAlto": 3
+    }
+
+  ]
+  
+ 
+ }
